@@ -14,7 +14,7 @@
             "last_commit": "2025-08-25T10:10:43Z",
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4826
+            "stars": 4825
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-08T01:21:43Z",
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 248
+            "stars": 241
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:48:06Z",
+            "last_commit": "2026-08-13T13:18:43Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6780
+            "stars": 6782
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:16:11Z",
+            "last_commit": "2026-08-14T02:01:32Z",
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1297
+            "stars": 1300
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40576
+            "stars": 40582
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-09T15:41:57Z",
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3970
+            "stars": 3969
           }
         },
         {
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-31T10:30:00Z",
+            "last_commit": "2026-08-13T07:05:59Z",
             "owner": "kleosr",
             "repo": "cursorkleosr",
             "stars": 326
@@ -237,10 +237,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:12:13Z",
+            "last_commit": "2026-08-13T20:36:57Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60665
+            "stars": 60703
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 27992
+            "stars": 27993
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7290
+            "stars": 7293
           }
         },
         {
@@ -327,7 +327,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T19:56:43Z",
+            "last_commit": "2026-08-13T08:13:37Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
             "stars": 3235
@@ -344,7 +344,7 @@
             "last_commit": "2025-09-09T09:06:17Z",
             "owner": "ryoppippi",
             "repo": "curxy",
-            "stars": 419
+            "stars": 418
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:15:02.055Z",
+    "last_updated": "2026-08-14T03:51:57.027Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
     "enhanced_repository": "enhansome/enhansome-cursor",
