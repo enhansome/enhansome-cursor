@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T14:37:12Z",
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:53:19Z",
+            "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6780
+            "stars": 6779
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T14:08:00Z",
+            "last_commit": "2026-08-17T22:14:25Z",
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1301
+            "stars": 1303
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40600
+            "stars": 40605
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2025-05-27T00:04:15Z",
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5970
+            "stars": 5968
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3565
+            "stars": 3566
           }
         },
         {
@@ -237,10 +237,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:10:00Z",
+            "last_commit": "2026-08-17T12:16:24Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60846
+            "stars": 60894
           }
         },
         {
@@ -307,7 +307,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T16:03:42Z",
+            "last_commit": "2026-08-17T21:38:16Z",
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 45
@@ -327,7 +327,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:38:52Z",
+            "last_commit": "2026-08-17T18:26:34Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
             "stars": 3236
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:48:51.107Z",
+    "last_updated": "2026-08-18T02:44:32.151Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
     "enhanced_repository": "enhansome/enhansome-cursor",
