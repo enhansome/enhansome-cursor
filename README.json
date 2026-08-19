@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 916155669,
             "language": "TypeScript",
             "last_commit": "2025-08-25T10:10:43Z",
             "owner": "eastlondoner",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843596576,
             "language": "TypeScript",
             "last_commit": "2024-11-02T23:54:30Z",
             "owner": "HamedMP",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1221180063,
             "language": "HTML",
-            "last_commit": "2026-08-18T19:22:52Z",
+            "last_commit": "2026-08-19T11:53:40Z",
             "owner": "coco-research",
             "repo": "coco",
             "stars": 241
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933774360,
             "language": "JavaScript",
             "last_commit": "2025-03-08T14:37:17Z",
             "owner": "Maxteabag",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 920345132,
             "language": "TypeScript",
             "last_commit": "2025-01-23T18:42:02Z",
             "owner": "dougwithseismic",
@@ -77,7 +82,7 @@
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 973180254,
             "language": "TypeScript",
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6780
+            "stars": 6782
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 903002140,
             "language": "Go",
             "last_commit": "2026-08-17T22:14:25Z",
             "owner": "specstoryai",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932386987,
             "language": "TypeScript",
             "last_commit": "2025-04-20T19:44:15Z",
             "owner": "saketsarin",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 926090667,
             "language": "TypeScript",
             "last_commit": "2025-09-25T18:55:07Z",
             "owner": "Dwtexe",
@@ -139,7 +148,7 @@
       "title": "Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858262444,
             "language": "JavaScript",
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40608
+            "stars": 40611
           }
         },
         {
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904890111,
             "language": "Python",
             "last_commit": "2025-05-27T00:04:15Z",
             "owner": "grapeot",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846957113,
             "language": "TypeScript",
             "last_commit": "2026-06-09T15:41:57Z",
             "owner": "cursor",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934159469,
             "language": "Python",
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
@@ -204,30 +217,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 951686239,
             "language": null,
-            "last_commit": "2026-08-13T07:05:59Z",
+            "last_commit": "2026-08-19T07:49:31Z",
             "owner": "kleosr",
             "repo": "cursorkleosr",
             "stars": 325
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Cursor Automatic Rules Generation",
-          "description": "Cursor Automatic Rules Generation with Agile Cursor Workflow Template.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "cursor-custom-agents-rules-generator",
-          "description": "Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows",
-          "children": []
         }
       ],
       "title": "Rules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -236,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:30:11Z",
+            "last_commit": "2026-08-19T09:01:11Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60948
+            "stars": 60967
           }
         },
         {
@@ -250,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942837343,
             "language": "JavaScript",
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28003
+            "stars": 28001
           }
         },
         {
@@ -264,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930217913,
             "language": "TypeScript",
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7296
+            "stars": 7295
           }
         },
         {
@@ -278,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 951654423,
             "language": "TypeScript",
             "last_commit": "2026-04-11T14:16:52Z",
             "owner": "matthewdcage",
@@ -292,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 923855157,
             "language": "TypeScript",
             "last_commit": "2025-01-29T00:21:48Z",
             "owner": "johnneerdael",
@@ -306,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1231288768,
             "language": "JavaScript",
             "last_commit": "2026-08-17T21:38:16Z",
             "owner": "Fmarzochi",
@@ -317,7 +325,7 @@
       "title": "MCPs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -326,11 +334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 903233225,
             "language": "TypeScript",
             "last_commit": "2026-08-18T06:29:14Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3236
+            "stars": 3237
           }
         },
         {
@@ -340,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 789008605,
             "language": "TypeScript",
             "last_commit": "2025-09-09T09:06:17Z",
             "owner": "ryoppippi",
@@ -354,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908545134,
             "language": "Python",
             "last_commit": "2025-01-19T10:41:12Z",
             "owner": "Dror-Bengal",
@@ -366,8 +377,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:45:47.371Z",
+    "last_updated": "2026-08-19T12:27:00.263Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
+    "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
     "enhanced_repository": "enhansome/enhansome-cursor",
     "enhanced_repository_description": null,
