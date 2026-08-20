@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1221180063,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:53:40Z",
+            "last_commit": "2026-08-19T20:47:42Z",
             "owner": "coco-research",
             "repo": "coco",
             "stars": 241
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6782
+            "stars": 6783
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40611
+            "stars": 40614
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-09T15:41:57Z",
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3973
+            "stars": 3974
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3566
+            "stars": 3567
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-19T09:01:11Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60967
+            "stars": 60987
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28001
+            "stars": 28002
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1231288768,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:38:16Z",
+            "last_commit": "2026-08-19T22:03:04Z",
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 45
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-18T06:29:14Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3237
+            "stars": 3236
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:00.263Z",
+    "last_updated": "2026-08-20T02:45:14.757Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
