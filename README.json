@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1221180063,
             "language": "HTML",
-            "last_commit": "2026-08-19T20:47:42Z",
+            "last_commit": "2026-08-20T19:33:14Z",
             "owner": "coco-research",
             "repo": "coco",
             "stars": 241
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6783
+            "stars": 6784
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-17T22:14:25Z",
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1304
+            "stars": 1305
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40614
+            "stars": 40625
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2025-05-27T00:04:15Z",
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5967
+            "stars": 5966
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-09T15:41:57Z",
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3974
+            "stars": 3975
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3567
+            "stars": 3566
           }
         },
         {
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 951686239,
             "language": null,
-            "last_commit": "2026-08-19T07:49:31Z",
+            "last_commit": "2026-08-20T04:50:00Z",
             "owner": "kleosr",
             "repo": "cursorkleosr",
             "stars": 325
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:01:11Z",
+            "last_commit": "2026-08-20T10:12:45Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60987
+            "stars": 61028
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28002
+            "stars": 28008
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7295
+            "stars": 7296
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 903233225,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:29:14Z",
+            "last_commit": "2026-08-20T07:34:32Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
             "stars": 3236
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:45:14.757Z",
+    "last_updated": "2026-08-21T02:51:36.424Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
