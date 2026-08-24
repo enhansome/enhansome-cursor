@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6786
+            "stars": 6787
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-17T22:14:25Z",
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1308
+            "stars": 1310
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40641
+            "stars": 40651
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3567
+            "stars": 3568
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T08:01:35Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61094
+            "stars": 61121
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28012
+            "stars": 28014
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7297
+            "stars": 7299
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:51:32.918Z",
+    "last_updated": "2026-08-24T02:52:27.720Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
