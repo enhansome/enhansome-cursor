@@ -30,7 +30,7 @@
             "last_commit": "2024-11-02T23:54:30Z",
             "owner": "HamedMP",
             "repo": "CursorLens",
-            "stars": 405
+            "stars": 406
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40651
+            "stars": 40657
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3568
+            "stars": 3569
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T08:01:35Z",
+            "last_commit": "2026-08-24T12:32:53Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61121
+            "stars": 61149
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28014
+            "stars": 28017
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7299
+            "stars": 7298
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:52:27.720Z",
+    "last_updated": "2026-08-24T14:44:42.345Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",

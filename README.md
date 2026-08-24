@@ -10,7 +10,7 @@ A list of cursor topics.
 ## Projects
 
 * [Cursor tools](https://github.com/eastlondoner/cursor-tools) ⭐ 4,824 | 🐛 46 | 🌐 TypeScript | 📅 2025-08-25: Give Cursor Agent an AI Team and Advanced Skills  ![GitHub Repo stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools)
-* [CursorLens](https://github.com/HamedMP/CursorLens) ⭐ 405 | 🐛 18 | 🌐 TypeScript | 📅 2024-11-02: An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
+* [CursorLens](https://github.com/HamedMP/CursorLens) ⭐ 406 | 🐛 18 | 🌐 TypeScript | 📅 2024-11-02: An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
 * [Coco](https://github.com/rkz91/coco) ⭐ 242 | 🐛 14 | 🌐 HTML | 📅 2026-08-22: 389-expert advisory board (9 teams) with optional `--debate` deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/rkz91/coco)
 * [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-08: A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
 * [cursor-tools](https://github.com/dougwithseismic/cursor-tools) ⭐ 28 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-23: A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
@@ -24,10 +24,10 @@ A list of cursor topics.
 
 ## Rules
 
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,651 | 🐛 56 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,657 | 🐛 56 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) ⭐ 5,968 | 🐛 9 | 🌐 Python | 📅 2025-05-27: Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/cursor.directory) ⭐ 3,979 | 🐛 13 | 🌐 TypeScript | 📅 2026-06-09: Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
-* [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,568 | 🐛 29 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
+* [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,569 | 🐛 29 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
 * [cursorkleosr](https://github.com/kleosr/cursorkleosr) ⭐ 325 | 🐛 0 | 📅 2026-08-20: This project provides a streamlined way to work with AI assistants (like Claude or GPT-4) inside the Cursor IDE, making development more autonomous and consistent. It helps the AI remember project context and follow a structured process, even across different sessions. Think of it as giving your AI assistant a reliable memory and a clear playbook.  ![GitHub Repo stars](https://img.shields.io/github/stars/kleosr/cursorkleosr)
 * [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template. ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-auto-rules-agile-workflow)
 * [cursor-custom-agents-rules-generator](https://github.com/bmadcode/cursor-custom-agents-rules-generator): Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows  ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-custom-agents-rules-generator)
@@ -38,11 +38,11 @@ A list of cursor topics.
 
 ## MCPs
 
-* [context7](https://github.com/upstash/context7) ⭐ 61,121 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-21: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
+* [context7](https://github.com/upstash/context7) ⭐ 61,149 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-24: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
 
-* [claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,014 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
+* [claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,017 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 
-* [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) ⭐ 7,299 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-12: Monitor browser logs directly from Cursor and other MCP compatible IDEs.  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp)
+* [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) ⭐ 7,298 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-12: Monitor browser logs directly from Cursor and other MCP compatible IDEs.  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp)
 
 * [cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer) ⭐ 77 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-11: Installs MCPs in cursor for you, give it a git URL and let it rip.  ![GitHub Repo stars](https://img.shields.io/github/stars/matthewdcage/cursor-mcp-installer)
 
