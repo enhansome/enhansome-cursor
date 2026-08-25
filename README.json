@@ -162,7 +162,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40655
+            "stars": 40654
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3569
+            "stars": 3568
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-24T12:32:53Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61170
+            "stars": 61177
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:47:26.843Z",
+    "last_updated": "2026-08-25T06:39:46.155Z",
     "original_repository": "hao-ji-xing/awesome-cursor",
     "original_repository_id": 934130963,
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",

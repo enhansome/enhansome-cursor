@@ -24,10 +24,10 @@ A list of cursor topics.
 
 ## Rules
 
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,655 | 🐛 57 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,654 | 🐛 57 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) ⭐ 5,970 | 🐛 9 | 🌐 Python | 📅 2025-05-27: Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/cursor.directory) ⭐ 3,980 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24: Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
-* [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,569 | 🐛 29 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
+* [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,568 | 🐛 29 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
 * [cursorkleosr](https://github.com/kleosr/cursorkleosr) ⭐ 325 | 🐛 0 | 📅 2026-08-20: This project provides a streamlined way to work with AI assistants (like Claude or GPT-4) inside the Cursor IDE, making development more autonomous and consistent. It helps the AI remember project context and follow a structured process, even across different sessions. Think of it as giving your AI assistant a reliable memory and a clear playbook.  ![GitHub Repo stars](https://img.shields.io/github/stars/kleosr/cursorkleosr)
 * [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template. ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-auto-rules-agile-workflow)
 * [cursor-custom-agents-rules-generator](https://github.com/bmadcode/cursor-custom-agents-rules-generator): Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows  ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-custom-agents-rules-generator)
@@ -38,7 +38,7 @@ A list of cursor topics.
 
 ## MCPs
 
-* [context7](https://github.com/upstash/context7) ⭐ 61,170 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-24: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
+* [context7](https://github.com/upstash/context7) ⭐ 61,177 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-24: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
 
 * [claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,018 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 
