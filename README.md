@@ -24,7 +24,7 @@ A list of cursor topics.
 
 ## Rules
 
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,664 | 🐛 57 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,666 | 🐛 57 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) ⭐ 5,970 | 🐛 9 | 🌐 Python | 📅 2025-05-27: Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/cursor.directory) ⭐ 3,983 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24: Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
 * [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,568 | 🐛 28 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
