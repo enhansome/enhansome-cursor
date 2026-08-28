@@ -16,7 +16,8 @@
             "owner": "eastlondoner",
             "repo": "vibe-tools",
             "stars": 4824
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "HamedMP",
             "repo": "CursorLens",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "coco-research",
             "repo": "coco",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Maxteabag",
             "repo": "cursor-chrome-composer",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dougwithseismic",
             "repo": "cursor-tools",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         }
       ],
       "title": "Projects"
@@ -97,7 +102,8 @@
             "owner": "stagewise-io",
             "repo": "stagewise",
             "stars": 6790
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "specstoryai",
             "repo": "getspecstory",
             "stars": 1312
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "saketsarin",
             "repo": "composer-web",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Dwtexe",
             "repo": "cursor-stats",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         }
       ],
       "title": "Extensions"
@@ -162,8 +171,9 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40666
-          }
+            "stars": 40674
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "grapeot",
             "repo": "devin.cursorrules",
             "stars": 5970
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-24T18:17:17Z",
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3983
-          }
+            "stars": 3985
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2026-05-19T12:28:00Z",
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3568
-          }
+            "stars": 3570
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "kleosr",
             "repo": "cursorkleosr",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         }
       ],
       "title": "Rules"
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:42:22Z",
+            "last_commit": "2026-08-28T12:52:17Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61288
-          }
+            "stars": 61334
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28023
-          }
+            "stars": 28029
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-12T16:48:04Z",
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7299
-          }
+            "stars": 7301
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "matthewdcage",
             "repo": "cursor-mcp-installer",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "johnneerdael",
             "repo": "multiplatform-cursor-mcp",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         }
       ],
       "title": "MCPs"
@@ -336,11 +356,12 @@
             "archived": false,
             "id": 903233225,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:34:59Z",
+            "last_commit": "2026-08-27T23:25:03Z",
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
             "stars": 3238
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "ryoppippi",
             "repo": "curxy",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         },
         {
           "node_type": "item",
@@ -370,14 +392,15 @@
             "owner": "Dror-Bengal",
             "repo": "CursorFocus",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:56.712Z",
+    "last_updated": "2026-08-28T13:24:30.420Z",
     "original_repository_info": {
       "archived": false,
       "id": 934130963,
