@@ -284,7 +284,7 @@
             "open_issues": 58,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40675,
+            "stars": 40674,
             "topics": [
               "awesome",
               "awesome-list",
@@ -404,10 +404,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T12:52:17Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61359,
+            "stars": 61368,
             "topics": [
               "llm",
               "mcp",
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:39.569Z",
+    "last_updated": "2026-08-29T08:19:34.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",

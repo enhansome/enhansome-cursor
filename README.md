@@ -24,7 +24,7 @@ A list of cursor topics.
 
 ## Rules
 
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,675 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,674 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-30: 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) ⭐ 5,970 | 🐛 9 | 🌐 Python | 📅 2025-05-27: Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/cursor.directory) ⭐ 3,986 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24: Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
 * [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) ⭐ 3,571 | 🐛 28 | 🌐 Python | 📅 2026-05-19: Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
@@ -38,7 +38,7 @@ A list of cursor topics.
 
 ## MCPs
 
-* [context7](https://github.com/upstash/context7) ⭐ 61,359 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-28: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
+* [context7](https://github.com/upstash/context7) ⭐ 61,368 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-28: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
 
 * [claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,032 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 
