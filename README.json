@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give Cursor Agent an AI Team and Advanced Skills",
+            "homepage": null,
             "id": 916155669,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-25T10:10:43Z",
+            "open_issues": 46,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4824
+            "stars": 4826,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
+            "homepage": "https://www.cursorlens.com",
             "id": 843596576,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-02T23:54:30Z",
+            "open_issues": 18,
             "owner": "HamedMP",
             "repo": "CursorLens",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "analytics",
+              "claude",
+              "coding",
+              "cursor"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -42,12 +57,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.",
+            "homepage": "cocoresearch.org/coco/",
             "id": 1221180063,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T18:26:24Z",
+            "open_issues": 15,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "llm-tools",
+              "mcp",
+              "pm-tools",
+              "product-management",
+              "productivity",
+              "prompt-engineering",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -58,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 933774360,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-08T14:37:17Z",
+            "open_issues": 0,
             "owner": "Maxteabag",
             "repo": "cursor-chrome-composer",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -74,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "building tools with cursor to make cursor faster so I can ubuild tools to be faster at making cursor fast",
+            "homepage": null,
             "id": 920345132,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-23T18:42:02Z",
+            "open_issues": 2,
             "owner": "dougwithseismic",
             "repo": "cursor-tools",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         }
@@ -96,12 +142,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
+            "homepage": "https://stagewise.io",
             "id": 973180254,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T19:00:31Z",
+            "open_issues": 17,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6790
+            "stars": 6791,
+            "topics": [
+              "agent",
+              "agent-orchestration",
+              "ide"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -112,12 +167,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.",
+            "homepage": "https://specstory.com/",
             "id": 903002140,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:37:24Z",
+            "open_issues": 60,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1312
+            "stars": 1314,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "chat-history",
+              "claude",
+              "claude-code",
+              "claude-code-skills",
+              "codex",
+              "codex-cli",
+              "codex-skills",
+              "copilot",
+              "copilot-chat",
+              "copilot-skills",
+              "cursor-ai",
+              "cursor-cli",
+              "cursorai",
+              "skills",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -128,12 +207,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cursor extension that forwards frontend errors and screenshots to composer in one-click, making development seamless for you. Download here: https://marketplace.visualstudio.com/items?itemName=SaketSarin.composer-web",
+            "homepage": "https://discord.gg/cyA7NpTUQS",
             "id": 932386987,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-20T19:44:15Z",
+            "open_issues": 10,
             "owner": "saketsarin",
             "repo": "composer-web",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "browser",
+              "chrome",
+              "collaborate",
+              "communityexchange",
+              "cursor",
+              "cursor-extension",
+              "debugging",
+              "devtools",
+              "github",
+              "monitoring",
+              "network",
+              "productivity",
+              "vscode-extension",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -144,12 +243,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Cursor extension that displays your Cursor Subscription usage statistics in the status bar.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=Dwtexe.cursor-stats",
             "id": 926090667,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-25T18:55:07Z",
+            "open_issues": 0,
             "owner": "Dwtexe",
             "repo": "cursor-stats",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "cursor",
+              "cursor-ai",
+              "cursor-ai-editor",
+              "cursor-ide"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         }
@@ -166,12 +275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+            "homepage": "https://github.com/PatrickJS/awesome-cursorrules",
             "id": 858262444,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
+            "open_issues": 58,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40674
+            "stars": 40675,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cursor",
+              "cursor-ai-editor",
+              "cursorrules"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -182,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magic to turn Cursor/Windsurf as 90% of Devin",
+            "homepage": null,
             "id": 904890111,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-27T00:04:15Z",
+            "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5970
+            "stars": 5970,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -198,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins from the Cursor community",
+            "homepage": "https://cursor.directory",
             "id": 846957113,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-24T18:17:17Z",
+            "open_issues": 14,
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3985
+            "stars": 3986,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -214,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome Cursor Rules .mdc files",
+            "homepage": null,
             "id": 934159469,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-19T12:28:00Z",
+            "open_issues": 28,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3570
+            "stars": 3571,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -230,12 +365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make AI Development Feel Natural in Cursor",
+            "homepage": "https://forum.cursor.com/t/guide-a-simpler-more-autonomous-ai-workflow-for-cursor/70688",
             "id": 951686239,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T04:50:00Z",
+            "open_issues": 0,
             "owner": "kleosr",
             "repo": "cursorkleosr",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "agent-memory",
+              "ai",
+              "cursor",
+              "cursor-rules",
+              "ide"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         }
@@ -252,12 +398,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+            "homepage": "https://context7.com",
             "id": 955620917,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:52:17Z",
+            "open_issues": 65,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61334
+            "stars": 61359,
+            "topics": [
+              "llm",
+              "mcp",
+              "mcp-server",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -268,12 +424,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
+            "homepage": "https://tryhamster.com",
             "id": 942837343,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-28T13:27:12Z",
+            "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28029
+            "stars": 28032,
+            "topics": [
+              "ai",
+              "cursor",
+              "cursor-ai",
+              "cursorai",
+              "lovable",
+              "lovable-dev",
+              "roocode",
+              "task-manager",
+              "tasks",
+              "tasks-list",
+              "windsurf",
+              "windsurf-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -284,12 +458,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+            "homepage": "https://agentdesk.ai/",
             "id": 930217913,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T16:48:04Z",
+            "open_issues": 1,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7301
+            "stars": 7303,
+            "topics": [
+              "ai",
+              "anthropic",
+              "cursor",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -300,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installs MCPs in cursor for you, give it a git URL and let it rip",
+            "homepage": null,
             "id": 951654423,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-11T14:16:52Z",
+            "open_issues": 3,
             "owner": "matthewdcage",
             "repo": "cursor-mcp-installer",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -316,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 923855157,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-29T00:21:48Z",
+            "open_issues": 3,
             "owner": "johnneerdael",
             "repo": "multiplatform-cursor-mcp",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -332,12 +527,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EGC gives every AI coding agent the same brain. Shared memory, skills, and live context across Cursor, Claude Code, Copilot, Aider, and 20+ AI coding tools with zero configuration. Every tab, terminal, and AI stays automatically synchronized. One brain. Everywhere.",
+            "homepage": "https://fmarzochi.github.io/EGCSite/",
             "id": 1231288768,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T16:10:28Z",
+            "open_issues": 13,
             "owner": "Fmarzochi",
             "repo": "EGC",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "agent-memory",
+              "agentic-workflows",
+              "ai-agents",
+              "ai-memory",
+              "aider",
+              "claude-code",
+              "context-engineering",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "multi-agent-orchestration",
+              "persistent-memory",
+              "shared-context",
+              "token-optimization",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         }
@@ -354,12 +573,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀",
+            "homepage": "https://cursor.uuid.site",
             "id": 903233225,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:25:03Z",
+            "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3238
+            "stars": 3238,
+            "topics": [
+              "curosr",
+              "cursor",
+              "cursor-ai",
+              "cursor-ai-editor",
+              "cursor-ide",
+              "cursor-infinite-free-trial",
+              "cursor-installer",
+              "deepseek-r1",
+              "downloads",
+              "downloadurl"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -370,12 +605,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple proxy worker for using ollama in cursor",
+            "homepage": "https://jsr.io/@ryoppippi/curxy",
             "id": 789008605,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-09T09:06:17Z",
+            "open_issues": 6,
             "owner": "ryoppippi",
             "repo": "curxy",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "cursor",
+              "deno",
+              "hono",
+              "ollama",
+              "proxy-server"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         },
@@ -386,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight tool that maintains a focused view of your project structure and environment. CursorFocus automatically tracks your project files, functions, and environment variables, updating every 60 seconds to keep you informed of changes.",
+            "homepage": null,
             "id": 908545134,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-19T10:41:12Z",
+            "open_issues": 4,
             "owner": "Dror-Bengal",
             "repo": "CursorFocus",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
         }
@@ -400,15 +651,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:30.420Z",
+    "last_updated": "2026-08-29T05:01:39.569Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of tools and resources for Cursor.",
+      "homepage": null,
       "id": 934130963,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-22T03:08:28Z",
+      "open_issues": 36,
       "owner": "hao-ji-xing",
       "repo": "awesome-cursor",
-      "stars": 84
+      "stars": 85,
+      "topics": [
+        "ai-editor",
+        "awesome-list",
+        "cursor",
+        "cursor-ai",
+        "cursor-ai-editor",
+        "cursorrules"
+      ]
     },
     "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
     "enhanced_repository": "enhansome/enhansome-cursor",
