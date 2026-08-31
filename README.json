@@ -62,11 +62,11 @@
             "id": 1221180063,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T05:14:49Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-30T22:11:26Z",
+            "open_issues": 18,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 220,
+            "stars": 217,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -151,7 +151,7 @@
             "open_issues": 17,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6799,
+            "stars": 6798,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -172,7 +172,7 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T21:37:24Z",
+            "last_commit": "2026-08-31T07:20:34Z",
             "open_issues": 60,
             "owner": "specstoryai",
             "repo": "getspecstory",
@@ -284,7 +284,7 @@
             "open_issues": 59,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40682,
+            "stars": 40686,
             "topics": [
               "awesome",
               "awesome-list",
@@ -353,7 +353,7 @@
             "open_issues": 28,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3571,
+            "stars": 3570,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -403,11 +403,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T06:22:23Z",
-            "open_issues": 68,
+            "last_commit": "2026-08-31T07:42:08Z",
+            "open_issues": 66,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61403,
+            "stars": 61434,
             "topics": [
               "llm",
               "mcp",
@@ -433,7 +433,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28038,
+            "stars": 28037,
             "topics": [
               "ai",
               "cursor",
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:32:24.141Z",
+    "last_updated": "2026-08-31T07:43:46.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
