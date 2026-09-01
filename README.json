@@ -172,11 +172,11 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T07:20:34Z",
-            "open_issues": 60,
+            "last_commit": "2026-08-31T15:58:00Z",
+            "open_issues": 61,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1316,
+            "stars": 1318,
             "topics": [
               "agent-skills",
               "ai",
@@ -284,7 +284,7 @@
             "open_issues": 59,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40686,
+            "stars": 40688,
             "topics": [
               "awesome",
               "awesome-list",
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5970,
+            "stars": 5969,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -332,7 +332,7 @@
             "open_issues": 14,
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3988,
+            "stars": 3987,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -403,11 +403,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T07:42:08Z",
-            "open_issues": 66,
+            "last_commit": "2026-08-31T13:50:22Z",
+            "open_issues": 61,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61434,
+            "stars": 61463,
             "topics": [
               "llm",
               "mcp",
@@ -433,7 +433,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28037,
+            "stars": 28040,
             "topics": [
               "ai",
               "cursor",
@@ -467,7 +467,7 @@
             "open_issues": 1,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7304,
+            "stars": 7305,
             "topics": [
               "ai",
               "anthropic",
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:43:46.050Z",
+    "last_updated": "2026-09-01T06:49:36.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
