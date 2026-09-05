@@ -62,8 +62,8 @@
             "id": 1221180063,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T00:30:16Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-04T18:16:09Z",
+            "open_issues": 28,
             "owner": "coco-research",
             "repo": "coco",
             "stars": 218,
@@ -151,7 +151,7 @@
             "open_issues": 18,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6801,
+            "stars": 6802,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -172,11 +172,11 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:34:43Z",
+            "last_commit": "2026-09-04T14:33:44Z",
             "open_issues": 59,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1319,
+            "stars": 1321,
             "topics": [
               "agent-skills",
               "ai",
@@ -284,7 +284,7 @@
             "open_issues": 59,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40722,
+            "stars": 40727,
             "topics": [
               "awesome",
               "awesome-list",
@@ -332,7 +332,7 @@
             "open_issues": 15,
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3988,
+            "stars": 3989,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "kleosr",
             "repo": "cursorkleosr",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "agent-memory",
               "ai",
@@ -403,11 +403,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T19:00:22Z",
+            "last_commit": "2026-09-04T19:06:10Z",
             "open_issues": 69,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61599,
+            "stars": 61640,
             "topics": [
               "llm",
               "mcp",
@@ -433,7 +433,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28045,
+            "stars": 28048,
             "topics": [
               "ai",
               "cursor",
@@ -467,7 +467,7 @@
             "open_issues": 1,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7309,
+            "stars": 7311,
             "topics": [
               "ai",
               "anthropic",
@@ -532,8 +532,8 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:32:52Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-05T05:08:36Z",
+            "open_issues": 13,
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 48,
@@ -578,11 +578,11 @@
             "id": 903233225,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:19:41Z",
+            "last_commit": "2026-09-04T22:42:10Z",
             "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3235,
+            "stars": 3236,
             "topics": [
               "curosr",
               "cursor",
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:34:11.953Z",
+    "last_updated": "2026-09-05T06:20:37.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
