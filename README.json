@@ -19,10 +19,52 @@
             "open_issues": 46,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4829,
+            "stars": 4828,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Teams AI",
+          "description": "A free, open-source desktop app for autonomous coding-agent teams, with Cursor Agent support, task delegation, inter-agent messaging, a live Kanban board, and code review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+            "homepage": "https://agentteams.live",
+            "id": 1163183284,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-08T06:27:18Z",
+            "open_issues": 22,
+            "owner": "777genius",
+            "repo": "agent-teams-ai",
+            "stars": 2085,
+            "topics": [
+              "agent-orchestration",
+              "agent-teams",
+              "agent-to-agent",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "codex",
+              "coding-agent",
+              "cursor",
+              "developer-tools",
+              "electron",
+              "github-copilot",
+              "kiro",
+              "llm",
+              "mcp-server",
+              "multi-agent",
+              "multi-agent-systems",
+              "openai",
+              "opencode",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         },
         {
           "node_type": "item",
@@ -66,7 +108,7 @@
             "open_issues": 54,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -86,6 +128,43 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "A local CLI/TUI for Cursor exports and coding-agent session history diagnostics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+            "homepage": "https://github.com/luoyuctl/agenttrace",
+            "id": 1226187070,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-07T01:10:50Z",
+            "open_issues": 7,
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 130,
+            "topics": [
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-cost-tracking",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "cursor",
+              "gemini-cli",
+              "opencode",
+              "qwen-code",
+              "rust",
+              "rust-cli",
+              "session-history",
+              "token-usage",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         },
         {
           "node_type": "item",
@@ -128,6 +207,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cursor-agent-service",
+          "description": "Run the Cursor CLI agent worker as a native OS service on Linux (systemd) or macOS (launchd) so you can deploy and run your own self-hosted agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run the Cursor CLI agent worker as a native OS service on Linux (systemd) or macOS (launchd).",
+            "homepage": null,
+            "id": 1320837482,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-02T22:29:50Z",
+            "open_issues": 0,
+            "owner": "AxLabs",
+            "repo": "cursor-agent-service",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         }
       ],
       "title": "Projects"
@@ -151,7 +251,7 @@
             "open_issues": 18,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6805,
+            "stars": 6806,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -172,8 +272,8 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T17:50:51Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-07T17:09:16Z",
+            "open_issues": 57,
             "owner": "specstoryai",
             "repo": "getspecstory",
             "stars": 1325,
@@ -261,9 +361,160 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cursor MCP",
+          "description": "Multi-channel MCP sidebar for Cursor with concurrent workspaces, per-window binding, image/file attachments and session memos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-channel MCP sidebar for Cursor: concurrent workspaces, per-window binding, images/files, session memos.",
+            "homepage": "https://github.com/2029193370/cursor-mcp",
+            "id": 1213253694,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-04-20T09:57:06Z",
+            "open_issues": 0,
+            "owner": "2029193370",
+            "repo": "cursor-mcp",
+            "stars": 0,
+            "topics": [
+              "ai",
+              "ai-tools",
+              "chat",
+              "cursor",
+              "cursor-extension",
+              "cursor-ide",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "multi-session",
+              "sidebar",
+              "vscode-extension"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         }
       ],
       "title": "Extensions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tailwind-best-practices",
+          "description": "Stop agents from generating Tailwind v3 code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stop your AI agent from generating Tailwind CSS v3 code. 20+ rules for v4 syntax, CSS-first config.",
+            "homepage": null,
+            "id": 1162409317,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-20T09:16:57Z",
+            "open_issues": 0,
+            "owner": "ofershap",
+            "repo": "tailwind-best-practices",
+            "stars": 13,
+            "topics": [
+              "ai-agent",
+              "best-practices",
+              "claude-code",
+              "css",
+              "cursor-plugin",
+              "tailwindcss"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-best-practices",
+          "description": "Modern TypeScript patterns for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Modern TypeScript patterns. Strict mode, discriminated unions, satisfies operator, const assertions.",
+            "homepage": null,
+            "id": 1162409355,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-20T09:16:59Z",
+            "open_issues": 0,
+            "owner": "ofershap",
+            "repo": "typescript-best-practices",
+            "stars": 9,
+            "topics": [
+              "ai-agent",
+              "best-practices",
+              "claude-code",
+              "cursor-plugin",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vibe-guard",
+          "description": "Always-on security guardrails for AI-generated code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Always-on security guardrails for AI-generated code. Catches hardcoded secrets, missing auth, insecure patterns.",
+            "homepage": null,
+            "id": 1162409381,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-20T09:17:02Z",
+            "open_issues": 0,
+            "owner": "ofershap",
+            "repo": "vibe-guard",
+            "stars": 1,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "cursor-plugin",
+              "guardrails",
+              "security",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "think-first",
+          "description": "Plan-before-code behavior modifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stop your AI agent from coding before thinking. Enforces a plan-first workflow.",
+            "homepage": null,
+            "id": 1162409334,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-20T09:17:01Z",
+            "open_issues": 0,
+            "owner": "ofershap",
+            "repo": "think-first",
+            "stars": 0,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "code-quality",
+              "cursor-plugin",
+              "planning"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        }
+      ],
+      "title": "Plugins"
     },
     {
       "description": null,
@@ -281,10 +532,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40737,
+            "stars": 40738,
             "topics": [
               "awesome",
               "awesome-list",
@@ -311,7 +562,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5968,
+            "stars": 5966,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -329,7 +580,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-24T18:17:17Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "cursor",
             "repo": "community-plugins",
             "stars": 3990,
@@ -384,9 +635,215 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cursorrules-collection",
+          "description": "A curated collection of .cursorrules and .mdc files for popular frameworks and stacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "110+ tested .mdc and .cursorrules files for Cursor AI. Validate with cursor-doctor, generate with rule-gen, convert with rule-porter.",
+            "homepage": "https://nedcodes.dev",
+            "id": 1155719080,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-02-28T22:47:44Z",
+            "open_issues": 0,
+            "owner": "nedcodes-ok",
+            "repo": "cursorrules-collection",
+            "stars": 37,
+            "topics": [
+              "ai-coding",
+              "cursor",
+              "cursor-ai",
+              "cursor-rules",
+              "cursorrules",
+              "dotcursorrules",
+              "mdc"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tugkanboz/awesome-cursorrules",
+          "description": "Modern Cursor Rules examples in MDC format with nested rules and ready-to-use test automation framework templates (Cypress, Selenium, Playwright, k6).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.",
+            "homepage": null,
+            "id": 908188716,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-08T06:21:32Z",
+            "open_issues": 9,
+            "owner": "tugkanboz",
+            "repo": "awesome-cursorrules",
+            "stars": 20,
+            "topics": [
+              "ai-coding",
+              "ai-coding-assistant",
+              "awesome-list",
+              "cursor-ai",
+              "cursor-ide",
+              "cursor-rules",
+              "cursorrules",
+              "cypress",
+              "mdc",
+              "playwright",
+              "selenium",
+              "test-automation"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cursor-rules",
+          "description": "35+ production-quality .cursorrules files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, FastAPI, and more). Each rule includes code style, architecture patterns, testing guidance, and best practices. Free, MIT licensed, community contributions welcome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🤖 Curated collection of .cursorrules files for Cursor IDE — boost your AI coding with framework-specific rules for React, Next.js, Python, Node.js, and more",
+            "homepage": "https://survivorforge.surge.sh/cursorrules-generator.html",
+            "id": 1172651360,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-17T01:03:55Z",
+            "open_issues": 1,
+            "owner": "survivorforge",
+            "repo": "cursor-rules",
+            "stars": 18,
+            "topics": [
+              "agent-tools",
+              "ai",
+              "ai-agents",
+              "ai-coding",
+              "claude",
+              "claude-code",
+              "coding-assistant",
+              "cursor",
+              "cursor-ide",
+              "cursor-rules",
+              "cursorrules",
+              "developer-tools",
+              "golang",
+              "mcp",
+              "nextjs",
+              "python",
+              "react",
+              "rules",
+              "rust",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cursor-lint",
+          "description": "A linter for .cursorrules and .mdc files — catches broken rules before they silently fail. Lint, fix, generate, and verify your Cursor rules from the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cursor rules linter and auto-fixer. Find out why Cursor ignores your rules. 100+ checks, zero dependencies.",
+            "homepage": "https://nedcodes.dev",
+            "id": 1159652092,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-03-08T17:54:12Z",
+            "open_issues": 0,
+            "owner": "nedcodes-ok",
+            "repo": "cursor-doctor",
+            "stars": 9,
+            "topics": [
+              "ai-coding",
+              "cli",
+              "code-quality",
+              "cursor",
+              "cursor-ai",
+              "cursor-ide",
+              "cursor-rules",
+              "developer-tools",
+              "linter",
+              "mdc"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         }
       ],
       "title": "Rules"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lynkr",
+          "description": "Self-hosted LLM gateway (Apache 2.0, Node.js) — drop-in proxy for Cursor with tier-based routing across 12+ providers (Ollama, llama.cpp, LM Studio, MLX, Bedrock, OpenRouter, Azure, Vertex, DeepSeek, Moonshot). MCP Code Mode collapses 100+ tools into 4 meta-tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.",
+            "homepage": "https://fast-editor.github.io/Lynkr/",
+            "id": 1109510791,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-06T04:15:16Z",
+            "open_issues": 2,
+            "owner": "Fast-Editor",
+            "repo": "Lynkr",
+            "stars": 547,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-gateway",
+              "claude",
+              "claudecode",
+              "code-assistant",
+              "code-generation",
+              "cursor",
+              "databricks",
+              "developer-tools",
+              "llamacpp",
+              "llm",
+              "llm-gateway",
+              "llm-proxy",
+              "llm-router",
+              "llmops",
+              "mcp",
+              "ollama",
+              "prompt-caching",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "llm-router",
+          "description": "Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Access models from OpenAI, Groq, local Ollama, and others by setting llm-router as Cursor's Base URL",
+            "homepage": null,
+            "id": 793318669,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2025-04-01T00:33:07Z",
+            "open_issues": 3,
+            "owner": "kcolemangt",
+            "repo": "llm-router",
+            "stars": 383,
+            "topics": []
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        }
+      ],
+      "title": "Models"
     },
     {
       "description": null,
@@ -403,11 +860,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:06:10Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-07T21:39:09Z",
+            "open_issues": 74,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61717,
+            "stars": 61762,
             "topics": [
               "llm",
               "mcp",
@@ -433,7 +890,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28053,
+            "stars": 28058,
             "topics": [
               "ai",
               "cursor",
@@ -477,6 +934,203 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-MCP",
+          "description": "Open-source MCP server connecting AI agents (including Cursor) to the Unity Editor and runtime, with 100+ built-in tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+            "homepage": "https://ai-game.dev",
+            "id": 959123498,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-04T11:07:32Z",
+            "open_issues": 52,
+            "owner": "IvanMurzak",
+            "repo": "Unity-MCP",
+            "stars": 4213,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "cursor",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "openai",
+              "unity",
+              "windsurf"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vestige",
+          "description": "Local-first cognitive memory MCP server for Cursor and other AI coding agents. SQLite storage, FSRS-6 retention, active forgetting, hybrid retrieval, and correction tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vestige enhances agents by deterministic root-cause retrieval that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
+            "homepage": "https://github.com/samvallad33/vestige",
+            "id": 1141662059,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-07T05:40:16Z",
+            "open_issues": 36,
+            "owner": "samvallad33",
+            "repo": "vestige",
+            "stars": 617,
+            "topics": [
+              "ai-memory",
+              "claude",
+              "cognitive-science",
+              "cursor",
+              "embeddings",
+              "fsrs",
+              "local-first",
+              "long-term-memory",
+              "mcp",
+              "mcp-server",
+              "neuroscience",
+              "onnx",
+              "rust",
+              "security",
+              "spaced-repetition",
+              "sqlite",
+              "sveltekit",
+              "threejs",
+              "vscode",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Godot-MCP",
+          "description": "Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+            "homepage": "https://ai-game.dev",
+            "id": 1258985200,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-03T22:18:20Z",
+            "open_issues": 1,
+            "owner": "IvanMurzak",
+            "repo": "Godot-MCP",
+            "stars": 236,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "deepseek",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "godot",
+              "godot-engine",
+              "mcp",
+              "mcp-server",
+              "openai"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hexis",
+          "description": "Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.",
+            "homepage": "https://demo.bevel.software/",
+            "id": 1317304497,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-07T20:02:39Z",
+            "open_issues": 6,
+            "owner": "Bevel-Software",
+            "repo": "Hexis",
+            "stars": 84,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude",
+              "knowledge-base",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "open-source",
+              "self-hosted",
+              "skills"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sverklo",
+          "description": "Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repo memory for coding agents. Local-first MCP for Claude Code, Cursor, Windsurf, and Codex CLI: symbol graph, blast radius, diff-aware review, and git-pinned decisions. MIT; no API keys or code upload.",
+            "homepage": "https://sverklo.com",
+            "id": 1203034717,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-12T15:48:37Z",
+            "open_issues": 3,
+            "owner": "sverklo",
+            "repo": "sverklo",
+            "stars": 79,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-coding",
+              "blast-radius",
+              "claude-code",
+              "code-intelligence",
+              "code-review",
+              "code-search",
+              "codex-cli",
+              "coding-agents",
+              "cursor",
+              "dependency-graph",
+              "developer-tools",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "repo-memory",
+              "semantic-search",
+              "windsurf"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         },
         {
           "node_type": "item",
@@ -532,8 +1186,8 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T00:31:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-08T06:32:46Z",
+            "open_issues": 8,
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 49,
@@ -559,9 +1213,436 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal-MCP",
+          "description": "Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI Game Developer for Unreal Engine — MCP plugin (C++ editor plugin + .NET bridge), unreal-cli, connects Unreal Editor to AI agents via ai-game.dev or a local MCP server",
+            "homepage": "https://ai-game.dev",
+            "id": 1264881333,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-30T05:06:53Z",
+            "open_issues": 1,
+            "owner": "IvanMurzak",
+            "repo": "Unreal-MCP",
+            "stars": 28,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "deepseek",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "mcp",
+              "mcp-server",
+              "openai",
+              "unreal",
+              "unreal-engine"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "supamem",
+          "description": "MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Project-agnostic dual-memory MCP CLI for Claude Code, Cursor, and OpenCode (Qdrant tuned hybrid retrieval + structural memory hooks)",
+            "homepage": "https://pypi.org/project/supamem/",
+            "id": 1222591322,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-21T04:57:51Z",
+            "open_issues": 4,
+            "owner": "dzmitrys-dev",
+            "repo": "supamem",
+            "stars": 12,
+            "topics": [
+              "claude",
+              "cursor",
+              "opencode",
+              "token-saver",
+              "token-saving",
+              "token-savings"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GameDev-MCP-Server",
+          "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Engine-agnostic MCP server shared by Unity-MCP, Godot-MCP and Unreal-MCP",
+            "homepage": "https://ai-game.dev",
+            "id": 1266136525,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-21T07:02:51Z",
+            "open_issues": 0,
+            "owner": "IvanMurzak",
+            "repo": "GameDev-MCP-Server",
+            "stars": 10,
+            "topics": [
+              "ai",
+              "dotnet",
+              "gamedev",
+              "godot",
+              "mcp",
+              "model-context-protocol",
+              "unity",
+              "unreal-engine"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "aide-memory",
+          "description": "Persistent, path-scoped memory for AI coding agents (Claude Code, Cursor, Devin). 7 MCP tools plus auto-capture/recall hooks; memories are plain JSON committed in your repo and synced via git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Persistent memory layer for AI coding agents — your agent remembers what you taught it",
+            "homepage": null,
+            "id": 1205174517,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-22T23:29:53Z",
+            "open_issues": 1,
+            "owner": "aide-memory",
+            "repo": "aide-memory",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Shots",
+          "description": "App Store screenshot, app icon, and ASO listing copy generation for mobile apps through hosted MCP server. Remote endpoint: .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate App Store screenshots and app icon concepts from Codex, Claude Code, and MCP clients.",
+            "homepage": "https://shots.run/",
+            "id": 1242845366,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-01T21:50:21Z",
+            "open_issues": 2,
+            "owner": "hitSlop",
+            "repo": "shots",
+            "stars": 2,
+            "topics": [
+              "agent-skills",
+              "app-icon-generator",
+              "app-store-screenshot-generator",
+              "app-store-screenshots",
+              "aso",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "codex-plugin",
+              "codex-skill",
+              "gpt-image-2",
+              "image-generation",
+              "mcp",
+              "mcp-server",
+              "mcp-tools"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "promptlint-mcp",
+          "description": "Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff. CLI + MCP server. Zero network, MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Static linter for AI prompts — catch contradictions, strip fluff, save tokens. CLI + MCP server.",
+            "homepage": null,
+            "id": 1219722469,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-04-25T01:02:39Z",
+            "open_issues": 3,
+            "owner": "sean-sunagaku",
+            "repo": "promptlint-mcp",
+            "stars": 1,
+            "topics": [
+              "ai",
+              "claude",
+              "cli",
+              "cost-optimization",
+              "linter",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "prompt-engineering",
+              "tokens"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Falconer",
+          "description": "Hosted MCP server that gives Cursor's agent trusted access to a company's living documentation — search, read, and update engineering docs, runbooks, decisions, and code context. Setup at https://falconer.com/mcp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Falconer hosted HTTP MCP integrations for AI agent clients",
+            "homepage": "https://falconer.com",
+            "id": 1263191379,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-30T07:48:36Z",
+            "open_issues": 2,
+            "owner": "FalconerAI",
+            "repo": "agent-integrations",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "falconer",
+              "mcp"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ParlayAPI MCP",
+          "description": "Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python MCP server for ParlayAPI sports odds and props. Public discovery needs no key; account data uses your own key. Includes signup, login-email, checkout-link and preference actions. MIT code; API data redistribution rights are not included.",
+            "homepage": "https://parlay-api.com/docs",
+            "id": 1226749500,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T12:45:57Z",
+            "open_issues": 0,
+            "owner": "JacobiusMakes",
+            "repo": "parlay-api-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "kalshi",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "odds-api",
+              "polymarket",
+              "sports-betting",
+              "sports-odds"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         }
       ],
       "title": "MCPs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "seo-analysis",
+          "description": "SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+            "homepage": "https://notfair.co/",
+            "id": 1193374549,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-05T21:07:27Z",
+            "open_issues": 14,
+            "owner": "nowork-studio",
+            "repo": "notfair-plugin",
+            "stars": 3661,
+            "topics": [
+              "agents",
+              "claude-code-plugin",
+              "claude-skills",
+              "gemini-cli-extension",
+              "geo",
+              "googleads",
+              "googleadsmcp",
+              "mcp",
+              "metaads",
+              "seo"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "product-manager-skills",
+          "description": "Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks. Discovery, strategy, delivery, SaaS metrics, career coaching, and AI product craft. Pure Markdown, zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PM skill for Claude Code, Codex, Cursor, and Windsurf: diagnose SaaS metrics, critique PRDs, plan roadmaps, run discovery, and coach PM career transitions.",
+            "homepage": "https://clawhub.ai/Digidai/product-manager-skills",
+            "id": 1171476919,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-12T03:05:07Z",
+            "open_issues": 0,
+            "owner": "Digidai",
+            "repo": "product-manager-skills",
+            "stars": 158,
+            "topics": [
+              "agent-skill",
+              "ai-agent-skill",
+              "ai-product",
+              "ai-product-manager",
+              "career-coaching",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-code-skill",
+              "codex-skill",
+              "cursor-skill",
+              "discovery",
+              "openclaw-skill",
+              "pm-tools",
+              "prd",
+              "product-led-growth",
+              "product-management",
+              "roadmap",
+              "saas-metrics",
+              "skill-md",
+              "windsurf-skill"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "humanizerai",
+          "description": "Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: . Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HumanizerAI Agent Skills for Claude Code and Codex - AI detection and text humanization",
+            "homepage": "https://humanizerai.com",
+            "id": 1146101438,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-02-05T14:19:04Z",
+            "open_issues": 0,
+            "owner": "humanizerai",
+            "repo": "agent-skills",
+            "stars": 41,
+            "topics": [
+              "agent",
+              "agent-skills",
+              "agentic",
+              "ai",
+              "claude-code",
+              "codex",
+              "dete",
+              "humanize",
+              "humanizer",
+              "skills"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XVARY Stock Research",
+          "description": "Claude Code skill for public SEC EDGAR + market data: , , . MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code stock analysis skill: SEC EDGAR + market data, /analyze /score /compare — free, local Python tools. By XVARY Research.",
+            "homepage": "https://xvary.com",
+            "id": 1189060136,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-03-23T18:00:31Z",
+            "open_issues": 0,
+            "owner": "xvary-research",
+            "repo": "claude-code-stock-analysis-skill",
+            "stars": 15,
+            "topics": [
+              "ai-skills",
+              "anthropic",
+              "claude-code",
+              "claude-plugin",
+              "edgar",
+              "equity-research",
+              "investing",
+              "python",
+              "sec-edgar",
+              "stock-analysis",
+              "xvary"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TokRepo Search Skill",
+          "description": "Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-platform TokRepo search skill for Claude Code, Codex, Cursor, Gemini CLI, and AGENTS-compatible tools.",
+            "homepage": "https://tokrepo.com",
+            "id": 1199072594,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-02T03:31:32Z",
+            "open_issues": 0,
+            "owner": "henu-wang",
+            "repo": "tokrepo-search-skill",
+            "stars": 5,
+            "topics": [
+              "agents-md",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "mcp",
+              "prompts",
+              "skills",
+              "tokrepo"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        }
+      ],
+      "title": "Skills"
     },
     {
       "description": null,
@@ -582,7 +1663,7 @@
             "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3236,
+            "stars": 3237,
             "topics": [
               "curosr",
               "cursor",
@@ -597,6 +1678,43 @@
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Caliber",
+          "description": "CLI that generates and syncs .cursor/rules/, skills, and MCP configs from project fingerprints. Also supports Claude Code and Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex.",
+            "homepage": "https://trycaliber.ai",
+            "id": 1178198291,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-26T12:08:51Z",
+            "open_issues": 16,
+            "owner": "caliber-ai-org",
+            "repo": "ai-setup",
+            "stars": 1262,
+            "topics": [
+              "agent-config",
+              "ai-agents",
+              "anthropic",
+              "claude-code",
+              "claude-md",
+              "cli",
+              "codex",
+              "cursor",
+              "cursorrules",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "openai",
+              "openai-codex",
+              "skills"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
         },
         {
           "node_type": "item",
@@ -651,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:39:48.412Z",
+    "last_updated": "2026-09-08T06:34:07.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
@@ -659,8 +1777,8 @@
       "id": 934130963,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-22T03:08:28Z",
-      "open_issues": 39,
+      "last_commit": "2026-09-07T07:28:56Z",
+      "open_issues": 7,
       "owner": "hao-ji-xing",
       "repo": "awesome-cursor",
       "stars": 85,
@@ -673,7 +1791,7 @@
         "cursorrules"
       ]
     },
-    "original_repository_sha": "a011a89be98c76b0377ed3dffde341d1af23c0f1",
+    "original_repository_sha": "bf80f871f31ff6325a3c1be86a1f1efe04a6aa66",
     "enhanced_repository": "enhansome/enhansome-cursor",
     "enhanced_repository_description": null,
     "title": "Awesome Cursor with stars"
