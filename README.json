@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4828,
+            "stars": 4827,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -36,11 +36,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T06:08:39Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-10T06:38:16Z",
+            "open_issues": 26,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2089,
+            "stars": 2095,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -108,7 +108,7 @@
             "open_issues": 54,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -251,7 +251,7 @@
             "open_issues": 19,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6808,
+            "stars": 6809,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -272,11 +272,11 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T17:09:16Z",
+            "last_commit": "2026-09-09T07:21:54Z",
             "open_issues": 57,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "agent-skills",
               "ai",
@@ -532,10 +532,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40742,
+            "stars": 40748,
             "topics": [
               "awesome",
               "awesome-list",
@@ -562,7 +562,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5966,
+            "stars": 5965,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -583,7 +583,7 @@
             "open_issues": 17,
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 3990,
+            "stars": 3992,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -604,7 +604,7 @@
             "open_issues": 28,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3570,
+            "stars": 3571,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -791,8 +791,8 @@
             "id": 1109510791,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T06:33:12Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-09T07:23:46Z",
+            "open_issues": 4,
             "owner": "Fast-Editor",
             "repo": "Lynkr",
             "stars": 547,
@@ -860,11 +860,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T05:50:02Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-10T02:03:29Z",
+            "open_issues": 55,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61799,
+            "stars": 61825,
             "topics": [
               "llm",
               "mcp",
@@ -890,7 +890,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28063,
+            "stars": 28061,
             "topics": [
               "ai",
               "cursor",
@@ -924,7 +924,7 @@
             "open_issues": 1,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7315,
+            "stars": 7317,
             "topics": [
               "ai",
               "anthropic",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4221,
+            "stars": 4228,
             "topics": [
               "ai",
               "ai-integration",
@@ -988,8 +988,8 @@
             "id": 1141662059,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T05:40:16Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-09T23:09:07Z",
+            "open_issues": 39,
             "owner": "samvallad33",
             "repo": "vestige",
             "stars": 617,
@@ -1034,7 +1034,7 @@
             "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 236,
+            "stars": 239,
             "topics": [
               "ai",
               "ai-integration",
@@ -1070,11 +1070,11 @@
             "id": 1317304497,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T20:02:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-09T21:26:01Z",
+            "open_issues": 8,
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 84,
+            "stars": 87,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1169,7 +1169,7 @@
             "open_issues": 3,
             "owner": "johnneerdael",
             "repo": "multiplatform-cursor-mcp",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -1186,8 +1186,8 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T06:12:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-09T19:30:59Z",
+            "open_issues": 6,
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 51,
@@ -1230,7 +1230,7 @@
             "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Unreal-MCP",
-            "stars": 28,
+            "stars": 30,
             "topics": [
               "ai",
               "ai-integration",
@@ -1480,11 +1480,11 @@
             "id": 1193374549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T21:07:27Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-09T17:58:32Z",
+            "open_issues": 15,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3685,
+            "stars": 3701,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1516,7 +1516,7 @@
             "open_issues": 0,
             "owner": "Digidai",
             "repo": "product-manager-skills",
-            "stars": 159,
+            "stars": 161,
             "topics": [
               "agent-skill",
               "ai-agent-skill",
@@ -1558,7 +1558,7 @@
             "open_issues": 0,
             "owner": "humanizerai",
             "repo": "agent-skills",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "agent",
               "agent-skills",
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "caliber-ai-org",
             "repo": "ai-setup",
-            "stars": 1264,
+            "stars": 1266,
             "topics": [
               "agent-config",
               "ai-agents",
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:46:12.800Z",
+    "last_updated": "2026-09-10T06:40:21.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
@@ -1781,7 +1781,7 @@
       "open_issues": 8,
       "owner": "hao-ji-xing",
       "repo": "awesome-cursor",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "ai-editor",
         "awesome-list",
