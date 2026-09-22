@@ -36,11 +36,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T05:05:33Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-22T06:34:17Z",
+            "open_issues": 25,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2150,
+            "stars": 2157,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -68,32 +68,6 @@
         },
         {
           "node_type": "item",
-          "title": "CursorLens",
-          "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
-            "homepage": "https://www.cursorlens.com",
-            "id": 843596576,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2024-11-02T23:54:30Z",
-            "open_issues": 19,
-            "owner": "HamedMP",
-            "repo": "CursorLens",
-            "stars": 406,
-            "topics": [
-              "analytics",
-              "claude",
-              "coding",
-              "cursor"
-            ]
-          },
-          "first_seen": "2026-08-28T13:24:30.420Z"
-        },
-        {
-          "node_type": "item",
           "title": "Coco",
           "description": "389-expert advisory board (9 teams) with optional deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT.",
           "children": [],
@@ -108,7 +82,7 @@
             "open_issues": 13,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 388,
+            "stars": 415,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -125,6 +99,32 @@
               "productivity",
               "prompt-engineering",
               "workflow-automation"
+            ]
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CursorLens",
+          "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
+            "homepage": "https://www.cursorlens.com",
+            "id": 843596576,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2024-11-02T23:54:30Z",
+            "open_issues": 19,
+            "owner": "HamedMP",
+            "repo": "CursorLens",
+            "stars": 404,
+            "topics": [
+              "analytics",
+              "claude",
+              "coding",
+              "cursor"
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -251,7 +251,7 @@
             "open_issues": 24,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6816,
+            "stars": 6818,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -272,11 +272,11 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T07:14:52Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-21T07:23:46Z",
+            "open_issues": 58,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1334,
+            "stars": 1336,
             "topics": [
               "agent-skills",
               "ai",
@@ -532,10 +532,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40806,
+            "stars": 40819,
             "topics": [
               "awesome",
               "awesome-list",
@@ -601,7 +601,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-05-19T12:28:00Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
             "stars": 3571,
@@ -678,7 +678,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-21T06:20:19Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "tugkanboz",
             "repo": "awesome-cursorrules",
             "stars": 21,
@@ -791,11 +791,11 @@
             "id": 1109510791,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T19:23:53Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-22T06:13:03Z",
+            "open_issues": 7,
             "owner": "Fast-Editor",
             "repo": "Lynkr",
-            "stars": 572,
+            "stars": 575,
             "topics": [
               "agents",
               "ai",
@@ -860,11 +860,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T06:20:36Z",
+            "last_commit": "2026-09-21T10:43:07Z",
             "open_issues": 67,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 62263,
+            "stars": 62302,
             "topics": [
               "llm",
               "mcp",
@@ -890,7 +890,7 @@
             "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28086,
+            "stars": 28088,
             "topics": [
               "ai",
               "cursor",
@@ -951,7 +951,7 @@
             "open_issues": 52,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4309,
+            "stars": 4317,
             "topics": [
               "ai",
               "ai-integration",
@@ -983,7 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Cognitive Deterministic Memory Security OS for Agentic AI that reaches backward through time to find the quiet change behind today's failure, not the lookalike. Intelligence is not a cloud subscription, its a data structure",
+            "description": "Cognitive Deterministic Memory Security for Agentic AI that reaches backward through time to find the quiet change behind today's failure, not the lookalike. ",
             "homepage": "https://github.com/samvallad33/vestige",
             "id": 1141662059,
             "language": "Rust",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "ai",
               "ai-integration",
@@ -1068,8 +1068,8 @@
             "id": 1317304497,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T23:24:04Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-22T06:51:28Z",
+            "open_issues": 8,
             "owner": "Bevel-Software",
             "repo": "Hexis",
             "stars": 88,
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Unreal-MCP",
-            "stars": 34,
+            "stars": 36,
             "topics": [
               "ai",
               "ai-integration",
@@ -1478,11 +1478,11 @@
             "id": 1193374549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T03:38:37Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-21T17:11:30Z",
+            "open_issues": 10,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3835,
+            "stars": 3841,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1514,7 +1514,7 @@
             "open_issues": 0,
             "owner": "Digidai",
             "repo": "product-manager-skills",
-            "stars": 173,
+            "stars": 175,
             "topics": [
               "agent-skill",
               "ai-agent-skill",
@@ -1556,7 +1556,7 @@
             "open_issues": 0,
             "owner": "humanizerai",
             "repo": "agent-skills",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "agent",
               "agent-skills",
@@ -1657,11 +1657,11 @@
             "id": 903233225,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T17:38:08Z",
+            "last_commit": "2026-09-22T05:41:18Z",
             "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3235,
+            "stars": 3234,
             "topics": [
               "curosr",
               "cursor",
@@ -1693,7 +1693,7 @@
             "open_issues": 18,
             "owner": "caliber-ai-org",
             "repo": "ai-setup",
-            "stars": 1276,
+            "stars": 1278,
             "topics": [
               "agent-config",
               "ai-agents",
@@ -1767,7 +1767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:15:55.758Z",
+    "last_updated": "2026-09-22T06:51:55.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
