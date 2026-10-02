@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4826,
+            "stars": 4827,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -36,11 +36,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T21:04:04Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-02T06:59:18Z",
+            "open_issues": 28,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2198,
+            "stars": 2203,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -68,43 +68,6 @@
         },
         {
           "node_type": "item",
-          "title": "Coco",
-          "description": "389-expert advisory board (9 teams) with optional deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-            "homepage": "https://cocoresearch.org/coco/",
-            "id": 1221180063,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T05:21:38Z",
-            "open_issues": 73,
-            "owner": "coco-research",
-            "repo": "coco",
-            "stars": 551,
-            "topics": [
-              "agent-skills",
-              "agents-md",
-              "ai",
-              "ai-agents",
-              "claude-code",
-              "codex",
-              "cursor",
-              "developer-tools",
-              "llm-tools",
-              "mcp",
-              "pm-tools",
-              "product-management",
-              "productivity",
-              "prompt-engineering",
-              "workflow-automation"
-            ]
-          },
-          "first_seen": "2026-08-28T13:24:30.420Z"
-        },
-        {
-          "node_type": "item",
           "title": "CursorLens",
           "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
           "children": [],
@@ -125,6 +88,43 @@
               "claude",
               "coding",
               "cursor"
+            ]
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Coco",
+          "description": "389-expert advisory board (9 teams) with optional deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+            "homepage": "https://cocoresearch.org/coco/",
+            "id": 1221180063,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-01T05:21:38Z",
+            "open_issues": 73,
+            "owner": "coco-research",
+            "repo": "coco",
+            "stars": 385,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "llm-tools",
+              "mcp",
+              "pm-tools",
+              "product-management",
+              "productivity",
+              "prompt-engineering",
+              "workflow-automation"
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -248,10 +248,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-30T13:29:14Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6826,
+            "stars": 6827,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -272,8 +272,8 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T07:24:16Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-02T07:15:01Z",
+            "open_issues": 51,
             "owner": "specstoryai",
             "repo": "getspecstory",
             "stars": 1343,
@@ -535,7 +535,7 @@
             "open_issues": 83,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40866,
+            "stars": 40872,
             "topics": [
               "awesome",
               "awesome-list",
@@ -562,7 +562,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5963,
+            "stars": 5964,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -580,7 +580,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-11T12:57:40Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "cursor",
             "repo": "community-plugins",
             "stars": 4000,
@@ -795,7 +795,7 @@
             "open_issues": 5,
             "owner": "Fast-Editor",
             "repo": "Lynkr",
-            "stars": 605,
+            "stars": 609,
             "topics": [
               "agents",
               "ai",
@@ -860,11 +860,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:16:53Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-02T07:00:35Z",
+            "open_issues": 92,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 62571,
+            "stars": 62597,
             "topics": [
               "llm",
               "mcp",
@@ -887,10 +887,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-04-28T13:27:12Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28119,
+            "stars": 28127,
             "topics": [
               "ai",
               "cursor",
@@ -924,7 +924,7 @@
             "open_issues": 4,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7329,
+            "stars": 7331,
             "topics": [
               "ai",
               "anthropic",
@@ -951,7 +951,7 @@
             "open_issues": 54,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4370,
+            "stars": 4374,
             "topics": [
               "ai",
               "ai-integration",
@@ -983,16 +983,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Local-first memory + a deterministic command gate for AI agents, on a signed log.",
+            "description": "The memory + security kernel for AI agents. Strata: a signed append-only log, receipts on every write, exact-handle recall, memory agents can't rewrite. Operator Lite: a GuardFall-proof gate on 16 hosts.",
             "homepage": "https://github.com/samvallad33/vestige",
             "id": 1141662059,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T07:29:01Z",
+            "last_commit": "2026-10-01T12:08:58Z",
             "open_issues": 35,
             "owner": "samvallad33",
             "repo": "vestige",
-            "stars": 644,
+            "stars": 646,
             "topics": [
               "agent-memory",
               "agent-os",
@@ -1070,11 +1070,11 @@
             "id": 1317304497,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T07:54:08Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T07:16:51Z",
+            "open_issues": 12,
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1186,11 +1186,11 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T03:25:49Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-02T06:42:19Z",
+            "open_issues": 83,
             "owner": "Fmarzochi",
             "repo": "EGC",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "agent-memory",
               "agentic-workflows",
@@ -1230,7 +1230,7 @@
             "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Unreal-MCP",
-            "stars": 40,
+            "stars": 42,
             "topics": [
               "ai",
               "ai-integration",
@@ -1249,6 +1249,36 @@
               "mcp-server",
               "openai",
               "unreal",
+              "unreal-engine"
+            ]
+          },
+          "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GameDev-MCP-Server",
+          "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Engine-agnostic MCP server shared by Unity-MCP, Godot-MCP and Unreal-MCP",
+            "homepage": "https://ai-game.dev",
+            "id": 1266136525,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-27T08:28:10Z",
+            "open_issues": 0,
+            "owner": "IvanMurzak",
+            "repo": "GameDev-MCP-Server",
+            "stars": 14,
+            "topics": [
+              "ai",
+              "dotnet",
+              "gamedev",
+              "godot",
+              "mcp",
+              "model-context-protocol",
+              "unity",
               "unreal-engine"
             ]
           },
@@ -1278,36 +1308,6 @@
               "token-saver",
               "token-saving",
               "token-savings"
-            ]
-          },
-          "first_seen": "2026-09-08T06:34:07.687Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GameDev-MCP-Server",
-          "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Engine-agnostic MCP server shared by Unity-MCP, Godot-MCP and Unreal-MCP",
-            "homepage": "https://ai-game.dev",
-            "id": 1266136525,
-            "language": "C#",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-27T08:28:10Z",
-            "open_issues": 0,
-            "owner": "IvanMurzak",
-            "repo": "GameDev-MCP-Server",
-            "stars": 13,
-            "topics": [
-              "ai",
-              "dotnet",
-              "gamedev",
-              "godot",
-              "mcp",
-              "model-context-protocol",
-              "unity",
-              "unreal-engine"
             ]
           },
           "first_seen": "2026-09-08T06:34:07.687Z"
@@ -1414,7 +1414,7 @@
             "id": 1263191379,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-07-30T07:48:36Z",
+            "last_commit": "2026-10-02T06:35:03Z",
             "open_issues": 2,
             "owner": "FalconerAI",
             "repo": "agent-integrations",
@@ -1429,6 +1429,38 @@
             ]
           },
           "first_seen": "2026-09-08T06:34:07.687Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ParlayAPI MCP",
+          "description": "Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python MCP server for ParlayAPI sports odds and props. Public discovery needs no key; account data uses your own key. Includes signup, login-email, checkout-link and preference actions. MIT code; API data redistribution rights are not included.",
+            "homepage": "https://parlay-api.com/docs",
+            "id": 1226749500,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-02T03:39:57Z",
+            "open_issues": 1,
+            "owner": "JacobiusMakes",
+            "repo": "parlay-api-mcp",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "kalshi",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "odds-api",
+              "polymarket",
+              "sports-betting",
+              "sports-odds"
+            ]
+          },
+          "first_seen": "2026-10-02T07:34:22.466Z"
         }
       ],
       "title": "MCPs"
@@ -1452,7 +1484,7 @@
             "open_issues": 5,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3884,
+            "stars": 3887,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1627,11 +1659,11 @@
             "id": 903233225,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T00:57:42Z",
+            "last_commit": "2026-10-01T20:01:15Z",
             "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3239,
+            "stars": 3241,
             "topics": [
               "curosr",
               "cursor",
@@ -1660,10 +1692,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-24T08:29:46Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "caliber-ai-org",
             "repo": "ai-setup",
-            "stars": 1292,
+            "stars": 1295,
             "topics": [
               "agent-config",
               "ai-agents",
@@ -1737,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T07:51:47.548Z",
+    "last_updated": "2026-10-02T07:34:22.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
@@ -1746,7 +1778,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-07T07:28:56Z",
-      "open_issues": 18,
+      "open_issues": 20,
       "owner": "hao-ji-xing",
       "repo": "awesome-cursor",
       "stars": 90,
