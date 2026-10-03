@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4827,
+            "stars": 4826,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -36,11 +36,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T06:59:18Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-02T12:56:34Z",
+            "open_issues": 30,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2203,
+            "stars": 2210,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -108,7 +108,7 @@
             "open_issues": 73,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 385,
+            "stars": 402,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -251,7 +251,7 @@
             "open_issues": 16,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6827,
+            "stars": 6824,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -276,7 +276,7 @@
             "open_issues": 51,
             "owner": "specstoryai",
             "repo": "getspecstory",
-            "stars": 1343,
+            "stars": 1344,
             "topics": [
               "agent-skills",
               "ai",
@@ -316,7 +316,7 @@
             "open_issues": 10,
             "owner": "saketsarin",
             "repo": "composer-web",
-            "stars": 286,
+            "stars": 285,
             "topics": [
               "browser",
               "chrome",
@@ -532,7 +532,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
             "stars": 40872,
@@ -562,7 +562,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5964,
+            "stars": 5966,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -583,7 +583,7 @@
             "open_issues": 24,
             "owner": "cursor",
             "repo": "community-plugins",
-            "stars": 4000,
+            "stars": 3998,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -604,7 +604,7 @@
             "open_issues": 29,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3576,
+            "stars": 3575,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -621,7 +621,7 @@
             "id": 951686239,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T20:15:21Z",
+            "last_commit": "2026-10-02T19:36:08Z",
             "open_issues": 0,
             "owner": "kleosr",
             "repo": "cursorkleosr",
@@ -795,7 +795,7 @@
             "open_issues": 5,
             "owner": "Fast-Editor",
             "repo": "Lynkr",
-            "stars": 609,
+            "stars": 612,
             "topics": [
               "agents",
               "ai",
@@ -860,11 +860,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:00:35Z",
-            "open_issues": 92,
+            "last_commit": "2026-10-02T11:48:38Z",
+            "open_issues": 90,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 62597,
+            "stars": 62619,
             "topics": [
               "llm",
               "mcp",
@@ -890,7 +890,7 @@
             "open_issues": 213,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28127,
+            "stars": 28130,
             "topics": [
               "ai",
               "cursor",
@@ -924,7 +924,7 @@
             "open_issues": 4,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7331,
+            "stars": 7329,
             "topics": [
               "ai",
               "anthropic",
@@ -951,7 +951,7 @@
             "open_issues": 54,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4374,
+            "stars": 4376,
             "topics": [
               "ai",
               "ai-integration",
@@ -988,11 +988,11 @@
             "id": 1141662059,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T12:08:58Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-03T02:18:34Z",
+            "open_issues": 34,
             "owner": "samvallad33",
             "repo": "vestige",
-            "stars": 646,
+            "stars": 645,
             "topics": [
               "agent-memory",
               "agent-os",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 262,
+            "stars": 265,
             "topics": [
               "ai",
               "ai-integration",
@@ -1070,8 +1070,8 @@
             "id": 1317304497,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:16:51Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T18:48:21Z",
+            "open_issues": 9,
             "owner": "Bevel-Software",
             "repo": "Hexis",
             "stars": 91,
@@ -1186,8 +1186,8 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:42:19Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-03T04:32:27Z",
+            "open_issues": 79,
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 60,
@@ -1442,7 +1442,7 @@
             "id": 1226749500,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:39:57Z",
+            "last_commit": "2026-10-02T22:04:31Z",
             "open_issues": 1,
             "owner": "JacobiusMakes",
             "repo": "parlay-api-mcp",
@@ -1484,7 +1484,7 @@
             "open_issues": 5,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3887,
+            "stars": 3886,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:34:22.466Z",
+    "last_updated": "2026-10-03T04:39:08.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
