@@ -40,7 +40,7 @@
             "open_issues": 30,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2210,
+            "stars": 2211,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -68,6 +68,43 @@
         },
         {
           "node_type": "item",
+          "title": "Coco",
+          "description": "389-expert advisory board (9 teams) with optional deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+            "homepage": "https://cocoresearch.org/coco/",
+            "id": 1221180063,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-03T05:51:47Z",
+            "open_issues": 73,
+            "owner": "coco-research",
+            "repo": "coco",
+            "stars": 407,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "llm-tools",
+              "mcp",
+              "pm-tools",
+              "product-management",
+              "productivity",
+              "prompt-engineering",
+              "workflow-automation"
+            ]
+          },
+          "first_seen": "2026-08-28T13:24:30.420Z"
+        },
+        {
+          "node_type": "item",
           "title": "CursorLens",
           "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
           "children": [],
@@ -88,43 +125,6 @@
               "claude",
               "coding",
               "cursor"
-            ]
-          },
-          "first_seen": "2026-08-28T13:24:30.420Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Coco",
-          "description": "389-expert advisory board (9 teams) with optional deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
-            "homepage": "https://cocoresearch.org/coco/",
-            "id": 1221180063,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T05:21:38Z",
-            "open_issues": 73,
-            "owner": "coco-research",
-            "repo": "coco",
-            "stars": 402,
-            "topics": [
-              "agent-skills",
-              "agents-md",
-              "ai",
-              "ai-agents",
-              "claude-code",
-              "codex",
-              "cursor",
-              "developer-tools",
-              "llm-tools",
-              "mcp",
-              "pm-tools",
-              "product-management",
-              "productivity",
-              "prompt-engineering",
-              "workflow-automation"
             ]
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -861,10 +861,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T11:48:38Z",
-            "open_issues": 90,
+            "open_issues": 92,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 62619,
+            "stars": 62620,
             "topics": [
               "llm",
               "mcp",
@@ -890,7 +890,7 @@
             "open_issues": 213,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28130,
+            "stars": 28131,
             "topics": [
               "ai",
               "cursor",
@@ -951,7 +951,7 @@
             "open_issues": 54,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4376,
+            "stars": 4377,
             "topics": [
               "ai",
               "ai-integration",
@@ -1186,8 +1186,8 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:32:27Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-03T04:58:41Z",
+            "open_issues": 77,
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 60,
@@ -1484,7 +1484,7 @@
             "open_issues": 5,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3886,
+            "stars": 3887,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:08.618Z",
+    "last_updated": "2026-10-03T07:08:11.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
