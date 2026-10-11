@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "eastlondoner",
             "repo": "vibe-tools",
-            "stars": 4824,
+            "stars": 4823,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -36,11 +36,11 @@
             "id": 1163183284,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T07:06:55Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-11T04:17:12Z",
+            "open_issues": 32,
             "owner": "777genius",
             "repo": "agent-teams-ai",
-            "stars": 2252,
+            "stars": 2254,
             "topics": [
               "agent-orchestration",
               "agent-teams",
@@ -78,11 +78,11 @@
             "id": 1221180063,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T02:38:47Z",
+            "last_commit": "2026-10-11T00:26:48Z",
             "open_issues": 58,
             "owner": "coco-research",
             "repo": "coco",
-            "stars": 513,
+            "stars": 532,
             "topics": [
               "agent-skills",
               "agents-md",
@@ -119,7 +119,7 @@
             "open_issues": 19,
             "owner": "HamedMP",
             "repo": "CursorLens",
-            "stars": 403,
+            "stars": 402,
             "topics": [
               "analytics",
               "claude",
@@ -145,7 +145,7 @@
             "open_issues": 5,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "ai-agent-observability",
               "ai-agents",
@@ -251,7 +251,7 @@
             "open_issues": 25,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6828,
+            "stars": 6829,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -272,7 +272,7 @@
             "id": 903002140,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T07:44:14Z",
+            "last_commit": "2026-10-10T20:03:26Z",
             "open_issues": 51,
             "owner": "specstoryai",
             "repo": "getspecstory",
@@ -562,7 +562,7 @@
             "open_issues": 9,
             "owner": "grapeot",
             "repo": "devin.cursorrules",
-            "stars": 5963,
+            "stars": 5964,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -604,7 +604,7 @@
             "open_issues": 28,
             "owner": "sanjeed5",
             "repo": "awesome-cursor-rules-mdc",
-            "stars": 3571,
+            "stars": 3572,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.420Z"
@@ -864,7 +864,7 @@
             "open_issues": 32,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 62849,
+            "stars": 62892,
             "topics": [
               "llm",
               "mcp",
@@ -890,7 +890,7 @@
             "open_issues": 213,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28184,
+            "stars": 28197,
             "topics": [
               "ai",
               "cursor",
@@ -924,7 +924,7 @@
             "open_issues": 4,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7326,
+            "stars": 7327,
             "topics": [
               "ai",
               "anthropic",
@@ -951,7 +951,7 @@
             "open_issues": 59,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4412,
+            "stars": 4418,
             "topics": [
               "ai",
               "ai-integration",
@@ -1034,7 +1034,7 @@
             "open_issues": 6,
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 277,
+            "stars": 280,
             "topics": [
               "ai",
               "ai-integration",
@@ -1070,11 +1070,11 @@
             "id": 1317304497,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T02:11:08Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-11T04:56:00Z",
+            "open_issues": 15,
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 94,
+            "stars": 100,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1186,11 +1186,11 @@
             "id": 1231288768,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:40:46Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-11T06:50:20Z",
+            "open_issues": 56,
             "owner": "Fmarzochi",
             "repo": "EGC",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "agent-memory",
               "agentic-workflows",
@@ -1484,7 +1484,7 @@
             "open_issues": 11,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3913,
+            "stars": 3916,
             "topics": [
               "agents",
               "claude-code-plugin",
@@ -1663,7 +1663,7 @@
             "open_issues": 23,
             "owner": "oslook",
             "repo": "cursor-ai-downloads",
-            "stars": 3241,
+            "stars": 3242,
             "topics": [
               "curosr",
               "cursor",
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:46:36.815Z",
+    "last_updated": "2026-10-11T07:52:55.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools and resources for Cursor.",
@@ -1778,7 +1778,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-07T07:28:56Z",
-      "open_issues": 27,
+      "open_issues": 29,
       "owner": "hao-ji-xing",
       "repo": "awesome-cursor",
       "stars": 91,
